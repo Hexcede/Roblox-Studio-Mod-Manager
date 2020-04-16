@@ -61,11 +61,13 @@ namespace RobloxStudioModManager
                     "content/avatar",
                     "content/fonts",
                     "content/models",
-                    "content/scripts",
                     "content/sky",
                     "content/sounds",
                     "content/textures",
-                    "content/translations"
+                    "content/translations",
+                    
+                    "ExtraContent/scripts",
+                    "ExtraContent/textures"
                 };
 
                 foreach (string f in folderPaths)
